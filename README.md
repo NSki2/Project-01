@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Nick Skinner
 
-# Your Github username
+# NSki2
 
 # List the things you added for points
